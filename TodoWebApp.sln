@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28306.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoWebApp", "TodoWebApp\TodoWebApp.csproj", "{64C8F28A-D4DD-4912-9261-0A57A60FC7EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoWebApp.Tests", "TodoWebApp.Tests\TodoWebApp.Tests.csproj", "{AD760292-4C55-493D-BA90-56C75133543E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64C8F28A-D4DD-4912-9261-0A57A60FC7EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64C8F28A-D4DD-4912-9261-0A57A60FC7EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64C8F28A-D4DD-4912-9261-0A57A60FC7EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64C8F28A-D4DD-4912-9261-0A57A60FC7EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD760292-4C55-493D-BA90-56C75133543E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD760292-4C55-493D-BA90-56C75133543E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD760292-4C55-493D-BA90-56C75133543E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD760292-4C55-493D-BA90-56C75133543E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E862E374-0214-4888-81F4-DE24DF721DA6}
+	EndGlobalSection
+EndGlobal
